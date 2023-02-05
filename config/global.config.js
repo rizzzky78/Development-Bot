@@ -8,8 +8,8 @@ const {
 } = require("./global.info");
 
 const setting = {
-  botName: "Dev Bot",
-  footers: "Julius Pedo",
+  botName: "HNI HPAI Unofficial Bot",
+  footers: "Dev Bot",
   aliasBot: "Development Bot",
   imageBot:
     "https://raw.githubusercontent.com/rizzzky78/rizzzkyRepo/main/picture/img-azusa-main.jpeg",
@@ -34,12 +34,12 @@ const ATLAS = {
 
 const apikeys = {
   lolhuman: "thisMyApis",
-  openAi: "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",
+  openAi: "null",
 };
 
 const wmSticker = {
-  packname: "Bowo Pedo",
-  author: "Julius Pedo",
+  packname: "Julius & Bowo Pedo",
+  author: "Dev Bot",
 };
 
 const prefix = ".";
