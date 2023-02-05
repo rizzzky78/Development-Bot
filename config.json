@@ -1,0 +1,11 @@
+{
+    "botName": "Development Bot",
+    "timezone": "Asia/Jakarta",
+    "limit": 100,
+    "ownerName": "Rizu",
+    "ownerNumber": ["6281329585825"],
+    "sessionName": "lolhuman",
+    "apikey": "thisMyApis",
+    "packName": "Test Bot",
+    "packAuthor": "Hey There!"
+}
